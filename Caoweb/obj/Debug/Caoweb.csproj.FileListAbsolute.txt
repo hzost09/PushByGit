@@ -1,0 +1,11 @@
+D:\baitapC\hocC\Caoweb\Caoweb\bin\Debug\Caoweb.exe.config
+D:\baitapC\hocC\Caoweb\Caoweb\bin\Debug\Caoweb.exe
+D:\baitapC\hocC\Caoweb\Caoweb\bin\Debug\Caoweb.pdb
+D:\baitapC\hocC\Caoweb\Caoweb\obj\Debug\Caoweb.csproj.AssemblyReference.cache
+D:\baitapC\hocC\Caoweb\Caoweb\obj\Debug\Caoweb.csproj.SuggestedBindingRedirects.cache
+D:\baitapC\hocC\Caoweb\Caoweb\obj\Debug\Caoweb.csproj.CoreCompileInputs.cache
+D:\baitapC\hocC\Caoweb\Caoweb\obj\Debug\Caoweb.exe
+D:\baitapC\hocC\Caoweb\Caoweb\obj\Debug\Caoweb.pdb
+D:\baitapC\hocC\Caoweb\Caoweb\bin\Debug\Leaf.xNet.dll
+D:\baitapC\hocC\Caoweb\Caoweb\bin\Debug\Leaf.xNet.xml
+D:\baitapC\hocC\Caoweb\Caoweb\obj\Debug\Caoweb.csproj.CopyComplete

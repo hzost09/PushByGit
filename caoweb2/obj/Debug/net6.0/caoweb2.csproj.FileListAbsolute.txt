@@ -1,0 +1,17 @@
+D:\baitapC\hocC\Caoweb\caoweb2\bin\Debug\net6.0\caoweb2.exe
+D:\baitapC\hocC\Caoweb\caoweb2\bin\Debug\net6.0\caoweb2.deps.json
+D:\baitapC\hocC\Caoweb\caoweb2\bin\Debug\net6.0\caoweb2.runtimeconfig.json
+D:\baitapC\hocC\Caoweb\caoweb2\bin\Debug\net6.0\caoweb2.dll
+D:\baitapC\hocC\Caoweb\caoweb2\bin\Debug\net6.0\caoweb2.pdb
+D:\baitapC\hocC\Caoweb\caoweb2\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\baitapC\hocC\Caoweb\caoweb2\obj\Debug\net6.0\caoweb2.csproj.AssemblyReference.cache
+D:\baitapC\hocC\Caoweb\caoweb2\obj\Debug\net6.0\caoweb2.GeneratedMSBuildEditorConfig.editorconfig
+D:\baitapC\hocC\Caoweb\caoweb2\obj\Debug\net6.0\caoweb2.AssemblyInfoInputs.cache
+D:\baitapC\hocC\Caoweb\caoweb2\obj\Debug\net6.0\caoweb2.AssemblyInfo.cs
+D:\baitapC\hocC\Caoweb\caoweb2\obj\Debug\net6.0\caoweb2.csproj.CoreCompileInputs.cache
+D:\baitapC\hocC\Caoweb\caoweb2\obj\Debug\net6.0\caoweb2.csproj.CopyComplete
+D:\baitapC\hocC\Caoweb\caoweb2\obj\Debug\net6.0\caoweb2.dll
+D:\baitapC\hocC\Caoweb\caoweb2\obj\Debug\net6.0\refint\caoweb2.dll
+D:\baitapC\hocC\Caoweb\caoweb2\obj\Debug\net6.0\caoweb2.pdb
+D:\baitapC\hocC\Caoweb\caoweb2\obj\Debug\net6.0\caoweb2.genruntimeconfig.cache
+D:\baitapC\hocC\Caoweb\caoweb2\obj\Debug\net6.0\ref\caoweb2.dll

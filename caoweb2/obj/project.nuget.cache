@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PhltXPXyfoIw5J9RtHb46yyWMO8yLblUOFquo2n1HO1rYDmT85G288akO3bvrZCzuatzPNmd/yCQBUIHynpY2w==",
+  "success": true,
+  "projectFilePath": "D:\\baitapC\\hocC\\Caoweb\\caoweb2\\caoweb2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hzost\\.nuget\\packages\\htmlagilitypack\\1.11.53\\htmlagilitypack.1.11.53.nupkg.sha512"
+  ],
+  "logs": []
+}
